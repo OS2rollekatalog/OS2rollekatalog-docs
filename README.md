@@ -1,17 +1,6 @@
-> [!IMPORTANT] 
-> *Remove this section from your README.md after completing all setup tasks!*
-> - [ ] Click the green "Use this template" button above.
-> - [ ] Name your new repository and create it.
-> - [ ] Replace all the grey placeholder texts with your project-specific information.
-> - [ ] Add any additional relevant Markdown documents to your documentation.
-> - [ ] Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages).
-> - [ ] **Remove this setup section from your README.md.**
->
-> *That's it! You are now set up, and your documentation site is live!*
-
-
-# [Replace with Project Title]
-> Replace this subtitle section with a clear statement defining the mission and goals of your project in a few simple terms.
+# [OS2rollekatalog documentation]
+This documentation aims to provide a clear and practical overview of how to operate, maintain, and troubleshoot OS2rollekatalog in a stable and secure way.
+The goal is to support system administrators and operations teams with the information needed for reliable day-to-day management and long-term sustainability.
 
 [How It Works](#🧭-how-it-works) | [Architecture](#architecture) | [ How to Install and Run](#▶️-how-to-install-and-run)
 

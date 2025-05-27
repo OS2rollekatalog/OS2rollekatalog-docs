@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OS2rollekatalog documentation
+description: This documentation aims to provide a clear and practical overview of how to operate, maintain, and troubleshoot OS2rollekatalog in a stable and secure way. The goal is to support system administrators and operations teams with the information needed for reliable day-to-day management and long-term sustainability.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://os2rollekatalog.github.io/OS2rollekatalog-docs/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  github.com/os2rollekatalog: https://github.com/OS2rollekatalog/OS2rollekatalog
+  os2.eu/os2rollekatalog: https://www.os2.eu/os2rollekatalog
+
+plugins:
+  - jekyll-relative-links
