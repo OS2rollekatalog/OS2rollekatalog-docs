@@ -8,5 +8,5 @@ The documentation is written in markdown and transformed by [Jekyll](https://jek
 
 ---
 
-*This project is licensed under the terms of the [LICENSE.md](LICENSE.md) | For contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md) | Contact: [maintainer usernames]()*
+*This project is licensed under the terms of the [LICENSE.md](LICENSE.md) | For contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md) | Contact: [kbp-di](https://github.com/kbp-di)*
 
