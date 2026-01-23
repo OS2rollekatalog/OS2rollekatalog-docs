@@ -19,3 +19,6 @@ See [development](development.md) for instructions on how to get started develop
 ## Hosting and maintainance
 See [hosting](hosting.md) and [Integrations](integrations/integrations.md)
 
+## User documentation
+Besides the word documentation, user guides can be found [here](guides/guides.md)
+
