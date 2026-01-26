@@ -84,7 +84,7 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.18.0)
-    just-the-docs (0.11.1)
+    just-the-docs (0.12.0)
       jekyll (>= 3.8.5)
       jekyll-include-cache
       jekyll-seo-tag (>= 2.0)
@@ -170,7 +170,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.4.1)
   jekyll-relative-links (= 0.7.0)
-  just-the-docs (= 0.11.1)
+  just-the-docs (= 0.12.0)
   sass-embedded (~> 1.97.2)
 
 BUNDLED WITH
