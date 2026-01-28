@@ -58,6 +58,7 @@ Nedenstående tabel viser alle systemroller i OS2rollekatalog, hvilke sektioner 
 | **Administrator** | Fuld adgang til alle sektioner | Nej |
 | **Administration** | Konfiguration (læse, oprette, ændre, slette) | Nej |
 | **Adviser** | Advisering (læse, oprette, ændre, slette) | Nej |
+| **Anmod/Godkend Bemyndiget** | Afhængig af opsætning kan denne rolle give adgang til at oprette og godkende rolleanmodninger | Ja - organisationsenheder og it-systemer |
 | **Attesterings Administrator** | Attestation | Nej |
 | **Auditlog** | Log (læse, oprette, ændre, slette) | Nej |
 | **Bruger - læs** | Brugere (læse) | Ja - organisationsenheder |
