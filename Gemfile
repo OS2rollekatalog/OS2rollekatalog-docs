@@ -8,4 +8,4 @@ gem "just-the-docs", "0.11.1" # pinned to the current release
 
 gem "jekyll-relative-links", "0.7.0"
 
-gem "sass-embedded", "~> 1.97.2"
+gem "sass-embedded", "~> 1.99.0"
