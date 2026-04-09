@@ -25,3 +25,7 @@ See [KSP/CICS](kspcics) for instructions on howto enable this integration.
 OS2rollekatalog can integrate with MitID erhverv (NemLogin).  
 See [MitID erhverv](mitid) for instructions on howto enable this integration.  
 
+## OS2kitos
+OS2rollekatalog can integrate with OS2kitos to synchronize IT systems and maintain System Owner and System Responsible assignments.  
+See [OS2kitos](kitos) for instructions on howto enable this integration.  
+
